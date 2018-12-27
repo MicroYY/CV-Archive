@@ -22,11 +22,19 @@ My personal paper/code/dataset archives about computer vision
 |9|An overview of recent progress in volumetric semantic 3D reconstruction|ICPR 2016|语义三维重建的综述||
 |10|Dense Semantic 3D Reconstruction|TPAMI 2017|同8||
 |11|Large-Scale Outdoor 3D Reconstruction on a Mobile Device|CVIU 2017|移动设备（Google Project Tango)上的大规模重建|基本real-time|
-|12|Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction|ICRA 2015|第一个实时的大范围室外场景稠密语义重建|
+|12|Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction|ICRA 2015|第一个**实时**的大范围室外场景稠密语义重建|
 |13|Large-Scale Semantic 3D Reconstruction: An Adaptive Multi-Resolution Model|CVPR 2016|提出了一种自适应的multi-resolution的框架|离线处理|
 |14|[Joint Semantic Segmentation and 3D Reconstruction from Monocular Video](http://abhijitkundu.info/projects/JointSegRec/index.html)|ECCV 2014|构建体素块的离散图重建街景|单目，不需要估计深度|
+|15|[The Semantic Paintbrush: Interactive 3D Mapping and Recognition in Large Outdoor Spaces](http://www.miksik.co.uk/projects/visually_impaired/glasses_for_visually_impaired.html)|CHI 2015|眼镜 + 双目RGB-红外 + 手持激光笔重建室外场景|实时|
+|16|Incremental Dense Multi-modal 3D Scene Reconstruction|IROS 2015|stereo + lidar|实时|
 
-
+可以关注一下几个组和个人的主页
+* [ETH Computer Vision and Geometry group](https://cvg.ethz.ch/index.php)
+* [Max Planck Research Group for Autonomous Vision](https://avg.is.tuebingen.mpg.de/)
+* [Autonomous Vision Group](http://www.cvlibs.net/index.php)(和上面的是同一个组)
+* [Christian Häne](https://people.eecs.berkeley.edu/~chaene/index.html)
+* [Nikolay Savinov](https://www.nsavinov.com/)
+* [Patrick Pérez](https://ptrckprz.github.io/reconstruct/)
 
 #### 室内语义重建
 |#|Paper|Published in|Summary|Misc|
