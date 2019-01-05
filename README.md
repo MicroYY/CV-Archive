@@ -54,7 +54,7 @@ My personal paper/code/dataset archives about computer vision
 |3|[Class Specific 3D Object Shape Priors Using Surface Normal](https://www.nsavinov.com/publication/2014-shape-priors/)|CVPR 2014|利用物体表面的法向信息作为shape prior|
 |4|[Learning a Multi-view Stereo Machine](https://bair.berkeley.edu/blog/2017/09/05/unified-3d/)|NIPS 2017|一个端到端的网络，输入多视角图片，输出Voxel Occupancy Grid或者深度图|[已开源](https://github.com/akar43/lsm)|
 
-####传统重建
+#### 传统重建
 |#|Paper|Published in|Summary|Misc|
 |-|-|-|-|-|
 |1|[Building Rome in a Day](http://grail.cs.washington.edu/rome/)|ICCV 2009|large scale||
