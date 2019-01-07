@@ -21,7 +21,7 @@ My personal paper/code/dataset archives about computer vision
 |8|[Joint 3D Scene Reconstruction and Class Segmentation](https://people.eecs.berkeley.edu/~chaene/publications.html)|CVPR 2013|提出了一个分割和重建联合优化解决的框架|
 |9|An overview of recent progress in volumetric semantic 3D reconstruction|ICPR 2016|语义三维重建的综述||
 |10|Dense Semantic 3D Reconstruction|TPAMI 2017|同8||
-|11|Large-Scale Outdoor 3D Reconstruction on a Mobile Device|CVIU 2017|移动设备（Google Project Tango)上的大规模重建|基本real-time|
+|11|Large-Scale Outdoor 3D Reconstruction on a Mobile Device|CVIU 2017|移动设备（Google Project Tango)上的大规模重建|基本real-time；没有结合语义|
 |12|Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction|ICRA 2015|第一个**实时**的大范围室外场景稠密语义重建|总结并比较了了大规模语义重建的相关论文|
 |13|Large-Scale Semantic 3D Reconstruction: An Adaptive Multi-Resolution Model|CVPR 2016|提出了一种自适应的multi-resolution的框架|离线处理|
 |14|[Joint Semantic Segmentation and 3D Reconstruction from Monocular Video](http://abhijitkundu.info/projects/JointSegRec/index.html)|ECCV 2014|构建体素块的离散图重建街景|单目，不需要估计深度|
@@ -49,6 +49,7 @@ My personal paper/code/dataset archives about computer vision
 |3|A fully end-to-end deep learning approach for real-time simultaneous 3D reconstruction and material recognition|ICRA 2017|一个端到端的三维重建+材质识别系统|基本实时|
 |4|[Database-Assisted Object Retrieval for Real-Time 3D Reconstruction](http://graphics.stanford.edu/projects/objectsensing/)|Computer Graphics Forum 2015|
 |5|[ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans](https://cs.stanford.edu/~adai/dai2018scancomplete.html)|CVPR 2018|输入不完整场景预测完整模型并进行语义分割|[已开源](https://github.com/angeladai/ScanComplete)|
+|6|SemanticFusion: Dense 3D semantic mapping with convolutional neural networks|ICRA 2017|SLAM提供匹配点，CNN进行语义预测并融合||
 
 #### Object语义重建
 |#|Paper|Published in|Summary|Misc|
