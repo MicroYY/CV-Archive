@@ -31,6 +31,7 @@ My personal paper/code/dataset archives about computer vision
 |18|Mesh Based Semantic Modelling for Indoor and Outdoor Scenes|CVPR 2013|提出了三维物体（网格模型）标签的生成方法|
 |19|[Efﬁcient 3-d scene analysis from streaming data](https://www.ri.cmu.edu/publications/efficient-3-d-scene-analysis-from-streaming-data/)|ICRA 2013|提出了一种场景表达方式保证速度和精度|实时|
 |20|Multi-Label Semantic 3D Reconstruction using Voxel Blocks|3DV 2016|利用voxel blocks解决了多标签内存占用过多的问题||
+|21|Semantic 3D Reconstruction with Finite Element Bases|arXiv 2017|
 
 
 可以关注一下几个组和个人的主页
