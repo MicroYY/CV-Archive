@@ -32,6 +32,11 @@ My personal paper/code/dataset archives about computer vision
 |19|[Efﬁcient 3-d scene analysis from streaming data](https://www.ri.cmu.edu/publications/efficient-3-d-scene-analysis-from-streaming-data/)|ICRA 2013|提出了一种场景表达方式保证速度和精度|实时|
 |20|Multi-Label Semantic 3D Reconstruction using Voxel Blocks|3DV 2016|利用voxel blocks解决了多标签内存占用过多的问题||
 |21|Semantic 3D Reconstruction with Finite Element Bases|arXiv 2017|其实没看懂。。。||
+|22|Joint Optimization for Object Class Segmentation and Dense Stereo Reconstruction|IJCV 2012|双目重建+分割联合优化框架|
+|23|Extracting 3D Scene-Consistent Object Proposals and Depth from Stereo Images|ECCV 2012|引入了物体和场景的约束|
+|24|Semantic Structure From Motion with Points, Regions, and Objects|CVPR 2012|
+SfM中引入语义信息|
+
 
 
 可以关注一下几个组和个人的主页
