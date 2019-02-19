@@ -22,20 +22,19 @@ My personal paper/code/dataset archives about computer vision
 |9|An overview of recent progress in volumetric semantic 3D reconstruction|ICPR 2016|语义三维重建的综述||
 |10|Dense Semantic 3D Reconstruction|TPAMI 2017|同8||
 |11|Large-Scale Outdoor 3D Reconstruction on a Mobile Device|CVIU 2017|移动设备（Google Project Tango)上的大规模重建|基本real-time；没有结合语义|
-|12|Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction|ICRA 2015|第一个**实时**的大范围室外场景稠密语义重建|总结并比较了了大规模语义重建的相关论文|
+|**12**|Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction|ICRA 2015|第一个**实时**的大范围室外场景稠密语义重建|总结并比较了了大规模语义重建的相关论文|
 |13|Large-Scale Semantic 3D Reconstruction: An Adaptive Multi-Resolution Model|CVPR 2016|提出了一种自适应的multi-resolution的框架|离线处理|
 |14|[Joint Semantic Segmentation and 3D Reconstruction from Monocular Video](http://abhijitkundu.info/projects/JointSegRec/index.html)|ECCV 2014|构建体素块的离散图重建街景|单目，不需要估计深度|
 |15|[The Semantic Paintbrush: Interactive 3D Mapping and Recognition in Large Outdoor Spaces](http://www.miksik.co.uk/projects/visually_impaired/glasses_for_visually_impaired.html)|CHI 2015|眼镜 + 双目RGB-红外 + 手持激光笔重建室外场景|实时|
 |16|Incremental Dense Multi-modal 3D Scene Reconstruction|IROS 2015|stereo + lidar|实时|
 |17|Urban 3D Semantic Modelling Using Stereo Vision|ICRA 2013|
 |18|Mesh Based Semantic Modelling for Indoor and Outdoor Scenes|CVPR 2013|提出了三维物体（网格模型）标签的生成方法|
-|19|[Efﬁcient 3-d scene analysis from streaming data](https://www.ri.cmu.edu/publications/efficient-3-d-scene-analysis-from-streaming-data/)|ICRA 2013|提出了一种场景表达方式保证速度和精度|实时|
+|**19**|[Efﬁcient 3-d scene analysis from streaming data](https://www.ri.cmu.edu/publications/efficient-3-d-scene-analysis-from-streaming-data/)|ICRA 2013|提出了一种场景表达方式保证速度和精度|实时|
 |20|Multi-Label Semantic 3D Reconstruction using Voxel Blocks|3DV 2016|利用voxel blocks解决了多标签内存占用过多的问题||
 |21|Semantic 3D Reconstruction with Finite Element Bases|arXiv 2017|其实没看懂。。。||
 |22|Joint Optimization for Object Class Segmentation and Dense Stereo Reconstruction|IJCV 2012|双目重建+分割联合优化框架|
 |23|Extracting 3D Scene-Consistent Object Proposals and Depth from Stereo Images|ECCV 2012|引入了物体和场景的约束|
-|24|Semantic Structure From Motion with Points, Regions, and Objects|CVPR 2012|
-SfM中引入语义信息|
+|24|Semantic Structure From Motion with Points, Regions, and Objects|CVPR 2012|SfM中引入语义信息|
 
 
 
@@ -51,11 +50,14 @@ SfM中引入语义信息|
 |#|Paper|Published in|Summary|Misc|
 |---|----|-----|-----|-|
 |1|[3D Semantic Parsing of Large-Scale Indoor Spaces](http://buildingparser.stanford.edu/index.html)|CVPR 2016|大规模室内场景3D语义解析|提供了数据集|
-|2|Dense 3D Semantic Mapping of Indoor Scenes from RGB-D Images|ICRA 2014|基于贝叶斯更新和三维CRF的2D到3D标签迁移|实时|
+|**2**|Dense 3D Semantic Mapping of Indoor Scenes from RGB-D Images|ICRA 2014|基于贝叶斯更新和三维CRF的2D到3D标签迁移|实时|
 |3|A fully end-to-end deep learning approach for real-time simultaneous 3D reconstruction and material recognition|ICRA 2017|一个端到端的三维重建+材质识别系统|基本实时|
 |4|[Database-Assisted Object Retrieval for Real-Time 3D Reconstruction](http://graphics.stanford.edu/projects/objectsensing/)|Computer Graphics Forum 2015|
 |5|[ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans](https://cs.stanford.edu/~adai/dai2018scancomplete.html)|CVPR 2018|输入不完整场景预测完整模型并进行语义分割|[已开源](https://github.com/angeladai/ScanComplete)|
 |6|SemanticFusion: Dense 3D semantic mapping with convolutional neural networks|ICRA 2017|SLAM提供匹配点，CNN进行语义预测并融合||
+
+重点关注
+* [Angela Dai](https://cs.stanford.edu/~adai/index.html)
 
 #### Object语义重建
 |#|Paper|Published in|Summary|Misc|
