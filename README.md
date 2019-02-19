@@ -31,7 +31,7 @@ My personal paper/code/dataset archives about computer vision
 |18|Mesh Based Semantic Modelling for Indoor and Outdoor Scenes|CVPR 2013|提出了三维物体（网格模型）标签的生成方法|
 |19|[Efﬁcient 3-d scene analysis from streaming data](https://www.ri.cmu.edu/publications/efficient-3-d-scene-analysis-from-streaming-data/)|ICRA 2013|提出了一种场景表达方式保证速度和精度|实时|
 |20|Multi-Label Semantic 3D Reconstruction using Voxel Blocks|3DV 2016|利用voxel blocks解决了多标签内存占用过多的问题||
-|21|Semantic 3D Reconstruction with Finite Element Bases|arXiv 2017|
+|21|Semantic 3D Reconstruction with Finite Element Bases|arXiv 2017|其实没看懂。。。||
 
 
 可以关注一下几个组和个人的主页
@@ -75,6 +75,13 @@ My personal paper/code/dataset archives about computer vision
 |3|Scalable Real-time Volumetric Surface Reconstruction|TOG 2013|octree||
 |4|[A Volumetric Method for Building Complex Models from Range Images](http://graphics.stanford.edu/papers/volrange/)|SIGGRAPH 1996|提出了volumetric式重建|
 
+#### UAV related
+|#|Paper|Published in|Summary|Misc|
+|-|-|-|-|-|
+|1|Large-Scale Accurate Reconstruction of Buildings Employing Point Clouds Generated from UAV Imagery||
+|2|3D reconstruction of disaster scenes for urban search and rescue||
+|3|View Planning for 3D Shape Reconstruction of Buildings with Unmanned Aerial Vehicles||提出一种视角规划方法
+
 
 #### Stereo
 |#|Paper|Published in|Summary|Misc|
@@ -82,7 +89,7 @@ My personal paper/code/dataset archives about computer vision
 |1|Direction Matters: Depth Estimation with a Surface Normal Classifier|CVPR 2015|在depth estimation中引入了表面法向量分类||
 |2|[Efﬁcient Large-Scale Stereo Matching](http://www.cvlibs.net/software/libelas/)|ACCV 2010|寻找可以可靠匹配的特征点并以此为支撑做三角变换,对视差进行插值计算|效果一般，勉强实时；已开源（CPU）|
 
-#### Pose estimation
+#### Camera pose estimation
 |#|Paper|Published in|Summary|Misc|
 |-|-|-|-|-|
 |1|Visual Odometry and Mapping for Autonomous Flight Using an RGB-D Camera|ISRR 2011|
