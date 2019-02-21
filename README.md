@@ -106,9 +106,10 @@ My personal paper/code/dataset archives about computer vision
 ### Dataset
 
 #### 3D数据集
-|Dataset|Hyperlink|Comment|
+|#|Dataset|Misc|
 |-|-|-|
-|3D Warehouse|https://3dwarehouse.sketchup.com/|有一些建筑模型|
+|1|[3D Warehouse](https://3dwarehouse.sketchup.com/)|有一些建筑模型,格式为skp，同时关注下[SketchUp](https://www.sketchup.com/)|
+|2|[ShapeNet](https://www.shapenet.org/)|有一些建筑（8000+）和vegetation的模型，格式为skp（数据集来源于1。。。）|
 
 #### 2D数据集
 ##### Semantic segmentation
