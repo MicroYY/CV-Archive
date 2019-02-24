@@ -101,7 +101,13 @@ My personal paper/code/dataset archives about computer vision
 |-|-|-|-|-|
 |1|Visual Odometry and Mapping for Autonomous Flight Using an RGB-D Camera|ISRR 2011|
 
-
+#### 3D object retrieval
+|#|Paper|Published in|Summary|Misc|
+|-|-|-|-|-|
+|1|On Visual Similarity Based 3D Model Retrieval|2003|比较silhouette的相似度||
+|2|DeepCCFV: Camera Constraint-Free Multi-View Convolutional Neural Network for 3D Object Retrieval|AAAI 2019|
+|3|Multi-view Convolutional Neural Networks for 3D Shape Recognition|ICCV 2015|
+|4|Camera Constraint-Free View-Based 3-D Object Retrieval|TIP 2012|
 
 ### Dataset
 
@@ -110,6 +116,8 @@ My personal paper/code/dataset archives about computer vision
 |-|-|-|
 |1|[3D Warehouse](https://3dwarehouse.sketchup.com/)|有一些建筑模型,格式为skp，同时关注下[SketchUp](https://www.sketchup.com/)|
 |2|[ShapeNet](https://www.shapenet.org/)|有一些建筑（8000+）和vegetation的模型，格式为skp（数据集来源于1。。。）|
+|3|[GrabCAD](https://grabcad.com/)|建筑、制造、机械|
+|4|
 
 #### 2D数据集
 ##### Semantic segmentation
