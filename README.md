@@ -8,7 +8,7 @@ My personal paper/code/dataset archives about computer vision
 
 ### Paper
 
-#### 室外语义重建
+#### 室外重建
 |#|Paper|Published in|Summary|Misc|
 |-|----|----|---|---|
 |1|[Learning Priors for Semantic 3D Reconstruction](http://cvg.ethz.ch/research/learned-regularization/)|ECCV 2018||也适用于室内;暂时未开源|
@@ -35,6 +35,7 @@ My personal paper/code/dataset archives about computer vision
 |22|Joint Optimization for Object Class Segmentation and Dense Stereo Reconstruction|IJCV 2012|双目重建+分割联合优化框架|
 |23|Extracting 3D Scene-Consistent Object Proposals and Depth from Stereo Images|ECCV 2012|引入了物体和场景的约束|
 |24|Semantic Structure From Motion with Points, Regions, and Objects|CVPR 2012|SfM中引入语义信息|
+|25|MVSNet: Depth Inference for Unstructured Multi-view Stereo|ECCV 2018|从多视角图像估计深度|
 
 
 
@@ -108,6 +109,7 @@ My personal paper/code/dataset archives about computer vision
 |2|DeepCCFV: Camera Constraint-Free Multi-View Convolutional Neural Network for 3D Object Retrieval|AAAI 2019|
 |3|Multi-view Convolutional Neural Networks for 3D Shape Recognition|ICCV 2015|
 |4|Camera Constraint-Free View-Based 3-D Object Retrieval|TIP 2012|
+|5|A new 3D model retrieval approach based on the elevation descriptor|
 
 ### Dataset
 
