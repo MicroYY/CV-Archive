@@ -35,7 +35,7 @@ My personal paper/code/dataset archives about computer vision
 |22|Joint Optimization for Object Class Segmentation and Dense Stereo Reconstruction|IJCV 2012|双目重建+分割联合优化框架|
 |23|Extracting 3D Scene-Consistent Object Proposals and Depth from Stereo Images|ECCV 2012|引入了物体和场景的约束|
 |24|Semantic Structure From Motion with Points, Regions, and Objects|CVPR 2012|SfM中引入语义信息|
-|25|MVSNet: Depth Inference for Unstructured Multi-view Stereo|ECCV 2018|从多视角图像估计深度|
+|25|MVSNet: Depth Inference for Unstructured Multi-view Stereo|ECCV 2018|从多视角图像估计深度|[已开源](https://github.com/YoYo000/MVSNet)|
 
 
 
