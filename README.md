@@ -88,7 +88,7 @@ My personal paper/code/dataset archives about computer vision
 |-|-|-|-|-|
 |1|Large-Scale Accurate Reconstruction of Buildings Employing Point Clouds Generated from UAV Imagery||
 |2|3D reconstruction of disaster scenes for urban search and rescue||
-|3|View Planning for 3D Shape Reconstruction of Buildings with Unmanned Aerial Vehicles||提出一种视角规划方法
+|3|View Planning for 3D Shape Reconstruction of Buildings with Unmanned Aerial Vehicles||提出一种视角规划方法|
 
 
 #### Stereo
