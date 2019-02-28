@@ -8,7 +8,7 @@ My personal paper/code/dataset archives about computer vision
 
 ### Paper
 
-#### 室外重建
+#### 室外(语义)重建
 |#|Paper|Published in|Summary|Misc|
 |-|----|----|---|---|
 |1|[Learning Priors for Semantic 3D Reconstruction](http://cvg.ethz.ch/research/learned-regularization/)|ECCV 2018||也适用于室内;暂时未开源|
@@ -69,11 +69,15 @@ My personal paper/code/dataset archives about computer vision
 |4|[Learning a Multi-view Stereo Machine](https://bair.berkeley.edu/blog/2017/09/05/unified-3d/)|NIPS 2017|一个端到端的网络，输入多视角图片，输出Voxel Occupancy Grid或者深度图|[已开源](https://github.com/akar43/lsm)|
 |5|[Semantic Object Reconstruction via Casual Handheld Scanning](http://vcc.szu.edu.cn/research/2018/sr)|SIGGRAPH ASIA 2018|利用语义标签提升重建质量，并提出了一种主动式的自学习框架
 
-#### 语义SLAM
+#### （语义）SLAM
 |#|Paper|Published in|Summary|Misc|
 |-|-|-|-|-|
 |1|[Multi-view 3D Entangled Forest For Semantic Segmentation and Mapping](https://www.youtube.com/watch?v=sJ7ggulfnB4)|ICRA 2018|在语义建图中引入3DEF分类器，提出了新的多视角融合方法改善了分割效果||
-|2|[CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction](http://campar.in.tum.de/Chair/ProjectCNNSLAM)|CVPR 2017|CNN预测单目深度并进行语义分割|   
+|2|[CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction](http://campar.in.tum.de/Chair/ProjectCNNSLAM)|CVPR 2017|CNN预测单目深度并进行语义分割|  
+|3|REMODE: Probabilistic, Monocular Dense Reconstruction in Real Time|ICRA 2014|单目图片流中估计深度概率图
+
+重点关注
+* [HKUST Aerial Robotics Group](http://uav.ust.hk/)
 
 #### 传统重建
 |#|Paper|Published in|Summary|Misc|
@@ -83,12 +87,6 @@ My personal paper/code/dataset archives about computer vision
 |3|Scalable Real-time Volumetric Surface Reconstruction|TOG 2013|octree||
 |4|[A Volumetric Method for Building Complex Models from Range Images](http://graphics.stanford.edu/papers/volrange/)|SIGGRAPH 1996|提出了volumetric式重建|
 
-#### UAV related
-|#|Paper|Published in|Summary|Misc|
-|-|-|-|-|-|
-|1|Large-Scale Accurate Reconstruction of Buildings Employing Point Clouds Generated from UAV Imagery||
-|2|3D reconstruction of disaster scenes for urban search and rescue||
-|3|View Planning for 3D Shape Reconstruction of Buildings with Unmanned Aerial Vehicles||提出一种视角规划方法|
 
 
 #### Stereo
