@@ -78,6 +78,7 @@ My personal paper/code/dataset archives about computer vision
 |3|REMODE: Probabilistic, Monocular Dense Reconstruction in Real Time|ICRA 2014|单目图片流中估计深度概率图
 |4|Quadtree-accelerated Real-time Monocular Dense Mapping|IROS 2018|单目实时估计深度+稠密建图|[已开源](https://github.com/HKUST-Aerial-Robotics/open_quadtree_mapping)|
 |5|Multi-level mapping: Real-time dense monocular SLAM|ICRA 2016|四叉树增强局部纹理|
+|6|[REMODE: Probabilistic, Monocular Dense Reconstruction in Real Time](http://rpg.ifi.uzh.ch/software_datasets.html)|ICRA 2014||[已开源](https://github.com/uzh-rpg/rpg_open_remode)
 
 重点关注
 * [HKUST Aerial Robotics Group](http://uav.ust.hk/)
