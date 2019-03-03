@@ -36,6 +36,7 @@ My personal paper/code/dataset archives about computer vision
 |23|Extracting 3D Scene-Consistent Object Proposals and Depth from Stereo Images|ECCV 2012|引入了物体和场景的约束|
 |24|Semantic Structure From Motion with Points, Regions, and Objects|CVPR 2012|SfM中引入语义信息|
 |25|MVSNet: Depth Inference for Unstructured Multi-view Stereo|ECCV 2018|从多视角图像估计深度|[已开源](https://github.com/YoYo000/MVSNet)|
+|26|3D modeling on the go: Interactive 3d reconstruction of large-scale scenes on mobile devices|3DV 2015|
 
 
 
@@ -75,6 +76,8 @@ My personal paper/code/dataset archives about computer vision
 |1|[Multi-view 3D Entangled Forest For Semantic Segmentation and Mapping](https://www.youtube.com/watch?v=sJ7ggulfnB4)|ICRA 2018|在语义建图中引入3DEF分类器，提出了新的多视角融合方法改善了分割效果||
 |2|[CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction](http://campar.in.tum.de/Chair/ProjectCNNSLAM)|CVPR 2017|CNN预测单目深度并进行语义分割|  
 |3|REMODE: Probabilistic, Monocular Dense Reconstruction in Real Time|ICRA 2014|单目图片流中估计深度概率图
+|4|Quadtree-accelerated Real-time Monocular Dense Mapping|IROS 2018|单目实时估计深度+稠密建图|[已开源](https://github.com/HKUST-Aerial-Robotics/open_quadtree_mapping)|
+|5|Multi-level mapping: Real-time dense monocular SLAM|ICRA 2016|四叉树增强局部纹理|
 
 重点关注
 * [HKUST Aerial Robotics Group](http://uav.ust.hk/)
