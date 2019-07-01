@@ -98,6 +98,7 @@ My personal paper/code/dataset archives about computer vision
 |-|-|-|-|-|
 |1|Direction Matters: Depth Estimation with a Surface Normal Classifier|CVPR 2015|在depth estimation中引入了表面法向量分类||
 |2|[Efﬁcient Large-Scale Stereo Matching](http://www.cvlibs.net/software/libelas/)|ACCV 2010|寻找可以可靠匹配的特征点并以此为支撑做三角变换,对视差进行插值计算|效果一般，勉强实时；已开源（CPU）|
+|3|Massively Parallel Multiview Stereopsis by Surface Normal Diffusion|ICCV 2015||已开源
 
 #### Camera pose estimation
 |#|Paper|Published in|Summary|Misc|
